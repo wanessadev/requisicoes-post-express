@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Contato - Node.js POST</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="glass-container">
+        <h1>🚀 Enviar Dados</h1>
+        <p>Teste de requisição POST com Express.js</p>
+        
+        <form method="POST" action="http://localhost:3000/api/post-example">
+            <div class="input-group">
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name" placeholder="Seu nome completo" required>
+            </div>
+            
+            <div class="input-group">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="exemplo@email.com" required>
+            </div>
+            
+            <button type="submit">Enviar Requisição</button>
+        </form>
+    </div>
+</body>
+</html>

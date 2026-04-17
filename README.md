@@ -1,5 +1,6 @@
 # requisicoes-post-express
-🚀 Projeto de Requisições POST com ExpressEste projeto foi desenvolvido como parte de um trabalho acadêmico sobre ambientes de desenvolvimento de software. O objetivo principal é demonstrar o funcionamento do método HTTP POST para envio de dados entre cliente e servidor.
+🚀 Projeto de Requisições POST com Express!
+Este projeto foi desenvolvido como parte de um trabalho acadêmico sobre ambientes de desenvolvimento de software. O objetivo principal é demonstrar o funcionamento do método HTTP POST para envio de dados entre cliente e servidor.
 
 🛠️ Tecnologias UtilizadasNode.js: 
 Ambiente de execução JavaScript.
